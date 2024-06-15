@@ -1,0 +1,6 @@
+﻿mass,x_position,y_position,z_position,x_velocity,y_velocity,z_velocity,radius,colour,
+5.972E+24,1.5E+11,0,0,0,29800,0,1,black,EARTH
+1.989E+30,0,0,0,0,0,0,1,black,SUN
+3.285E+23,58000000000,0,0,0,47360,0,1,black,MERCURY
+4.867E+24,1.082E+11,0,0,0,35020,0,1,black,VENUS
+6.39E+23,2.092E+11,0,0,0,24080,0,1,black,MARS
